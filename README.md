@@ -8,7 +8,21 @@
   <b>The ultimate cybersecurity software deployment platform for professionals.</b>
 </p>
 
-  
+<p align="center">
+  <a href="https://mellifluous-fox-df20cb.netlify.app/">
+    <img src="https://img.shields.io/badge/OPERAXUS-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="OPERAXUS Website">
+  </a>
+  <a href="https://www.linkedin.com/in/pratiekbhivgade/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/0xcyberninja-git">
+    <img src="https://img.shields.io/badge/Portfolio-171515?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:pratiekbhivgade@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+ 
 ## 🚀 About OPERAXUS
 **OPERAXUS** is a cutting-edge cybersecurity software deployment platform tailored for professionals, ethical hackers, penetration testers, and forensic analysts. 
 
